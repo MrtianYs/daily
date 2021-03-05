@@ -1,6 +1,10 @@
 module.exports = {
+  base: '/dist/',
   title: 'Yasimola',
   description: '',
+  head: [
+    ['link', { rel: 'icon', href: '/Capricornus.png' }]
+  ],
   themeConfig: {
     sidebar: [
       {
@@ -24,6 +28,7 @@ module.exports = {
         title: '挖矿教程',
         path: '/eth/'
       }
-    ]
+    ],
+    smoothScroll: true
   }
 }

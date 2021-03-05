@@ -3,7 +3,7 @@
 使用方法<br>
 https://example.com/?url=(VIP视频网页地址)
 
-[播放地址](http://wangzaixst.xyz/video)
+[播放地址](http://wangzaixst.xyz/vip)
 
 [解析地址1](https://app.paintstrain.com/ybjx/?url=)<br>
 [解析地址2](https://api.lytwx.top/yiba/?url=)<br>
