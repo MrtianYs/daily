@@ -12,7 +12,7 @@ module.exports = {
         children: [
           {
             title: 'npm包大小查询',
-            path: 'http://wangzaixst.xyz/npm'
+            path: 'http://wangzaixst.com/npm'
           }
         ]
       },
@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         title: 'NPS内网穿透',
-        path: 'http://tiany.wangzaixst.xyz/'
+        path: 'http://tiany.wangzaixst.com/'
       },
       {
         title: '挖矿教程',
