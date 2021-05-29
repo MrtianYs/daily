@@ -25,8 +25,12 @@ module.exports = {
         path: 'http://tiany.wangzaixst.com/'
       },
       {
-        title: '挖矿教程',
+        title: 'ETH挖矿教程',
         path: '/eth/'
+      },
+      {
+        title: 'Swarm BZZ教程',
+        path: '/bzz/'
       }
     ],
     smoothScroll: true
